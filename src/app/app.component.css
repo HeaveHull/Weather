@@ -1,0 +1,72 @@
+@import url("C:\Users\Lenovo\Desktop\Angular\app\src\app\app.component.css");
+
+.cardbody{
+    text-align: center;
+    box-sizing: content-box;
+    height: 40pt;
+    width: 100pt;
+    background-color: aliceblue;
+    border: 5cm;
+    position: relative;
+    top: 600px;
+    left: 30pc;
+    right: 30px;
+    bottom: 30px;
+}
+.heading{
+  text-align: center;
+  color:#f8f9fd;
+  font-family: 'Times New Roman', Times, serif;
+}
+.background-img{
+  text-align: center;
+  font-size: medium;
+ min-height: 100%;
+ height:100vh;
+ background-image:url('https://images.unsplash.com/photo-1480497209098-7b9e9555bcee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHxfGVufDB8fHx8&auto=format&fit=crop&w=388&q=80');
+ width: 1450px;
+ background-position: center center;
+ background-size: cover;
+ margin: 0px;
+ padding: 0px;
+}
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+.example-card {
+  font-weight: bold;
+  border: 55px !important;
+    border-radius: 30px !important;
+    border: #000 !important;
+    box-sizing: border-box;
+    height: 185px;
+    width: 330px;
+    opacity: 0.7;
+    border-width: 2px;
+    border-color: white;
+    box-align: center;
+    background-color: rgb(139, 140, 137);
+    top: 170px ;
+    bottom: center;
+    font-family:cursive;
+    font-size: 17px;
+    left: 550px;
+    right: center;
+    
+  }
+  
+  
+  .Location{
+    font-size: 18px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    
+  }
+ 
